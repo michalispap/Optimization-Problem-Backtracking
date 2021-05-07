@@ -30,5 +30,3 @@ print('Initial x_n is:', x_n)
 backtracking(x_n, c, t)
 print('\nThe Newton backtracking algorithm ran', counter, 'times.')
 print('Total number of steps:', counter*3)
-
-
